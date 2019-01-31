@@ -1,0 +1,33 @@
+{
+  "name": "JavaScript-SPA",
+  "version": "1.0.0",
+  "description": "This project uses Vanilla JavaScript to build a Single Page Application.",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonesdl-2785/JavaScript-SPA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonesdl-2785/JavaScript-SPA/issues"
+  },
+  "homepage": "https://github.com/Jonesdl-2785/JavaScript-SPA#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "handlebars": "^4.0.12",
+    "jquery": "^3.3.1",
+    "semantic-ui-css": "^2.4.1",
+    "vanilla-router": "^1.2.7"
+  }
+}

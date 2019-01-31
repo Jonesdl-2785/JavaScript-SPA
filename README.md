@@ -1,2 +1,4 @@
 # JavaScript-SPA
-  JavaScript Single Page Application without a Framework
+# Single Page Application
+
+This project uses Vanilla JavaScript to build a Single Page Application.
